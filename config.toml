@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
 baseurl = "http://demo.themefisher.com/vex-hugo/"
-title = "Vex | hugo landing page template"
+title = "Hi, my name is Aman Sharma"
 theme = "vex-hugo"
 # post excert
 summarylength = "20"

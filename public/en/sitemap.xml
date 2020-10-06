@@ -48,6 +48,21 @@
   </url>
   
   <url>
+    <loc>/vex-hugo/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/vex-hugo/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/vex-hugo/"
+                />
+  </url>
+  
+  <url>
     <loc>/vex-hugo/blog/post-1/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
@@ -164,21 +179,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/vex-hugo/products/product-5/"
-                />
-  </url>
-  
-  <url>
-    <loc>/vex-hugo/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/vex-hugo/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/vex-hugo/"
                 />
   </url>
   
